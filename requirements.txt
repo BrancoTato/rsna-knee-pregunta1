@@ -1,0 +1,18 @@
+# versiones fijadas: las verificadas en la ejecucion de Kaggle; el resto, compatibles con ellas
+torch==2.11.0
+torchvision
+transformers==5.16.1
+sentence-transformers
+scikit-learn==1.6.1
+pandas==2.3.3
+numpy
+scipy
+langdetect==1.0.9
+pydicom
+opencv-python-headless
+matplotlib
+tqdm
+pyarrow
+sentencepiece
+jupyter
+nbconvert
